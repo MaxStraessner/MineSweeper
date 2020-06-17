@@ -10,7 +10,10 @@ import java.util.Scanner;
  */ 
 
 public class GameRunner{
-  
+
+  //Änderung Nummer eins
+
+
   //Displays rules at beginning of game.
   public static void init(){
     System.out.println("The object of the game is to clear the field of all safe tiles.");

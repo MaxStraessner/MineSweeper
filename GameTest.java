@@ -14,7 +14,8 @@
  * 
  */ 
 
-public class GameTest{
+public class 5
+        GameTest{
   public static void main(String[] args){
     GameRunner.init();
     GameRunner.test();

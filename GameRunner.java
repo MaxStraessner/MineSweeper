@@ -9,10 +9,13 @@ import java.util.Scanner;
  * 
  */ 
 
+//neue änderung
+
+
 public class GameRunner{
 
   //Änderung Nummer eins
-
+ // Änderung Nummer zwei mal schauen
 
   //Displays rules at beginning of game.
   public static void init(){

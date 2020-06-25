@@ -7,11 +7,12 @@ import java.util.Scanner;
  * and contains the logic that keeps the game running 
  * while the player hasn't won or lost.
  * 
- */ 
+ */
+
+
 
 public class GameRunner{
 
-  //Änderung Nummer eins
 
 
   //Displays rules at beginning of game.

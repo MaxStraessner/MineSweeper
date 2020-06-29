@@ -103,7 +103,9 @@ public class Game{
       }
     }
   }
-  
+
+  //test
+
   //Gets the value of a tile.
   public String getTile(int x, int y){
     return field[x][y];

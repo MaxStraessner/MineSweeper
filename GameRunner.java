@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 public class GameRunner{
 
-//implementiertes Update
+//implementiertes Update nummer hundert
 
   //Displays rules at beginning of game.
   public static void init(){
